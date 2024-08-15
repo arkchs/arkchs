@@ -1,10 +1,10 @@
-![MasterHead](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM3MDU3OTUsIm5iZiI6MTcyMzcwNTQ5NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE1VDA3MDQ1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU3NTlmNDM1NjE5MGYzNWI4Y2ZlMzFiZjI4YjExZjU4NjdhYjhjYzgxYjMzNTEwN2NlZjA0YTI0NGZjMmRiYTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.WLpLasD_xZFNq2vowGWYyQ-8bV2Z8b-Ga8FWQCiUkh0)
+![MasterHead](https://github.com/arkchs/arkchs/blob/main/night-drive.gif)
 <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
 <h3 align="center">I'm a Full Stack Developer who loves turning ideas into reality through code.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkchs&label=Profile%20views&color=0e75b6&style=flat" alt="arkchs" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkchs" alt="arkchs" /></a> </p> -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"/>
+<img align="right" alt="Coding" width="400" src="https://github.com/arkchs/arkchs/blob/main/late-night.gif"/>
 
 - 🔭 I’m currently working on [Price Pulse](https://github.com/arkchs/PricePulse)
 
@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkchs&show_icons=true&locale=en&layout=compact" alt="arkchs" width="350" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arkchs&show_icons=true&locale=en" alt="arkchs" width="500" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arkchs&show_icons=true&locale=en" alt="arkchs" width="450" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkchs&" alt="arkchs" width="500"/></p>
