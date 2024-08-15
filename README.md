@@ -1,5 +1,4 @@
-![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNiaHE1dTFjeDl6MWM3cjJ4aTlzcGp6YnNhOGsybHp2OXoybDUwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E89xxATM4iZoPdr6Tb/giphy.gif)![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNiaHE1dTFjeDl6MWM3cjJ4aTlzcGp6YnNhOGsybHp2OXoybDUwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E89xxATM4iZoPdr6Tb/giphy.gif)
-
+![MasterHead](https://repository-images.githubusercontent.com/194041170/739d6f00-986f-11e9-88a3-3b3d1008ba6e)
 <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
 <h3 align="center">I'm a Full Stack Developer who loves turning ideas into reality through code.</h3>
 
