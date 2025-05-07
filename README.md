@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/arkchs/arkchs/blob/main/night-drive.gif)
-<h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
+# <h1 align="center">Hi 👋, I'm Akshat Sharma</h1>
 <h3 align="center">I'm a Full Stack Developer who loves turning ideas into reality through code.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkchs&label=Profile%20views&color=0e75b6&style=flat" alt="arkchs" /> </p>
 
